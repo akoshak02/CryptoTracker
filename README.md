@@ -12,7 +12,17 @@ One of the key features of this app is its ability to save the user's current po
  - Live cryptocurrency data
  - Saving current user's portfolio
  - Searching, filtering, sorting, and reloading data
- - Custom color theme and loading animation
+ - Custom color theme and loading animation<br>
+<br>
+
+# Technical Features
+
+ - MVVM Architecture
+ - CoreData
+ - FileManager for saving images
+ - Combine
+ - Multiple API calls
+ - Codable (decoding JSON data)<br>
 <br>
 
 # How It Works?
