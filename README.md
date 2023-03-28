@@ -5,7 +5,7 @@
 Crypto Tracker allows users to track the prices of various cryptocurrencies in real-time. The application downloads live price data from an API, which provides up-to-date information about the market prices of various cryptocurrencies.
 
 One of the key features of this app is its ability to save the user's current portfolio using CoreData. This means that users can keep track their investments in various cryptocurrencies over time, and monitor how their portfolio is performing.
-
+&nbsp;
 
 # Features
 
