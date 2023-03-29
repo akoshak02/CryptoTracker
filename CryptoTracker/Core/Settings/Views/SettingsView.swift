@@ -11,7 +11,7 @@ struct SettingsView: View {
     
     let youtubeURL = URL(string: "https://www.youtube.com/playlist?list=PLwvDm4Vfkdphbc3bgy_LpLRQ9DDfFGcFu")!
     let coinGeckoURL = URL(string: "https://www.coingecko.com")!
-    let projectURL = URL(string: "https://www.github.com/abdulkarim-koshak")!
+    let projectURL = URL(string: "https://www.github.com/abdulkarim-koshak/CryptoTracker")!
     let personalURL = URL(string: "https://www.github.com/abdulkarim-koshak")!
 
     var body: some View {
