@@ -33,9 +33,9 @@ One of the key features of this app is its ability to save the user's current po
  
  3. The app receives this data and organizes it into a user-friendly format, such as a list or a grid, that can be easily viewed and navigated by the user.
 
- 4. The user can then select a specific cryptocurrency from the list, and your app sends another request to the CoinGecko API, asking for more detailed information about that specific cryptocurrency.
+ 4. The user can then select a specific cryptocurrency from the list, and Crypto Tracker sends another request to the CoinGecko API, asking for more detailed information about that specific cryptocurrency.
 
- 5. The CoinGecko API responds with the requested information, and your app displays it to the user in a detailed view.
+ 5. The CoinGecko API responds with the requested information, and the app displays it to the user in a detailed view.
 
 By using an API, Crypto Tracker is able to access up-to-date and accurate information about cryptocurrencies without having to manually update the data.
 <br>
