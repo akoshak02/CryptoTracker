@@ -48,5 +48,3 @@ The primary motivation for developing this app was for learning purposes and to 
 # Credits
 
 CoinGecko API: https://www.coingecko.com/en/api
-
-Swiftful Thinking Playlist: https://www.youtube.com/playlist?list=PLwvDm4Vfkdphbc3bgy_LpLRQ9DDfFGcFu
